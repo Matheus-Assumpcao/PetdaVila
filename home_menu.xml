@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/banhoFragment"
+        android:icon="@drawable/ic_baseline_shower_24"
+        android:title="Banho e Tosa"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/vetFragment"
+        android:icon="@drawable/ic_baseline_medical_information_24"
+        android:title="Médico Veterinario"
+        app:showAsAction="always" />
+
+
+
+</menu>
+
+
